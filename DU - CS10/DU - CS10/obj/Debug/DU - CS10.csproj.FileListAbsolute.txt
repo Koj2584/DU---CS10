@@ -1,0 +1,10 @@
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\bin\Debug\DU - CS10.exe.config
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\bin\Debug\DU - CS10.exe
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\bin\Debug\DU - CS10.pdb
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU - CS10.csprojAssemblyReference.cache
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU___CS10.Form1.resources
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU___CS10.Properties.Resources.resources
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU - CS10.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU - CS10.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU - CS10.exe
+D:\Koj\Programování\C#\DU - CS10\DU - CS10\obj\Debug\DU - CS10.pdb
